@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mahmoud Fathy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;ExpressJs%20|%20NodeJS%20|%20MongoDB%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;Express+Js%20|%20Node+JS%20|%20Mongo+DB%20&center=true&width=500&height=50"></a>
 </p>
 
  ## 👨‍💻 More about me !
