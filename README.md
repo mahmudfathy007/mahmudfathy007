@@ -48,7 +48,6 @@
 <br>
 
 
-
 ### Spotify Playing 🎧
 
-[![Spotify]([https://novatorem-mohamedhesham2106.vercel.app/api/spotify)](https://open.spotify.com/user/31wlimeqhgv5yjekcwot4qpgpgku](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz))
+[![Spotify]([https://novatorem-mohamedhesham2106.vercel.app/api/spotify](https://open.spotify.com/user/31l35gjtd64wi4boevgpsg65zbny?si=9dc7c6509fd84d3e))]([https://open.spotify.com/user/31wlimeqhgv5yjekcwot4qpgpgku](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz?si=ff8123057ebb4e47))
