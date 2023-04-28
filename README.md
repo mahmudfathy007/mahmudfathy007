@@ -1,10 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Shourya+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
-</div>
+<h1 align="center">Hi , I'm Mahmoud Fathy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
+<p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;ExpressJs%20|%20NodeJS%20|%20MongoDB%20&center=true&width=500&height=50"></a>
+</p>
 
- ## 👨‍💻 Hey Devs !
-
-- :credit_card: I'm Mahmoud Fathy Ammar 
+ ## 👨‍💻 More about me !
 - :books: My major is Software Engineering
 - :sweat_smile: Intrested in Backend development 
 - 💻 All of my projects are available at [Repositories](https://github.com/mahmudfathy007?tab=repositories)
@@ -46,4 +45,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </p>
 <br>
-
