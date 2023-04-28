@@ -46,3 +46,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </p>
 <br>
+
+
+
+### Spotify Playing 🎧
+
+[![Spotify]([https://novatorem-mohamedhesham2106.vercel.app/api/spotify)](https://open.spotify.com/user/31wlimeqhgv5yjekcwot4qpgpgku](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz))
