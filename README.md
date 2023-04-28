@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mahmoud Fathy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;Express+Js%20|%20Node+JS%20|%20Mongo+DB%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;ExpressJs%20|%20NodeJS%20|%20MongoDB%20&center=true&width=500&height=50"></a>
 </p>
 
  ## 👨‍💻 More about me !
@@ -17,12 +17,21 @@
 
 
 ## 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmudfathy007" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-</p>
- 
+
+ <p >
+  
+  <a href="https://www.linkedin.com/in/mahmudfathy007" target="_blank">
+    <img align="center" alt="Mahmout | Linkedin" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/mahmudfathy007" target="_blank">
+    <img align="center" alt="Mahmout | GitHub" width="40px" src="https://user-images.githubusercontent.com/93207605/235032353-6061a726-e619-4c1c-b311-f71571a059bd.png" />
+  </a> &nbsp;&nbsp;
+  
+<p>
+
+
+
 ## 📌 Some Languages and Tools
 
 <br>
