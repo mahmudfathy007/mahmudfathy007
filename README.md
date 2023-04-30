@@ -28,6 +28,9 @@
     <img align="center" alt="Mahmout | GitHub" width="40px" src="https://user-images.githubusercontent.com/93207605/235032353-6061a726-e619-4c1c-b311-f71571a059bd.png" />
   </a> &nbsp;&nbsp;
   
+  <a href="https://twitter.com/OmarAnan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omar3anan" height="30" width="40" /></a>
+
+  
 <p>
 
 
