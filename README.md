@@ -22,8 +22,9 @@
   
   <a href="https://www.linkedin.com/in/mahmudfathy007" target="_blank">
     <img align="center" alt="Mahmout | Linkedin" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
+  </a> 
+  <a href="https://www.instagram.com/omar3anan/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar3anan/?hl=en" height="30" width="40" /></a>      
+
   <a href="https://leetcode.com/mahmudfathy007" target="_blank">
     <img align="center" alt="Mahmout | GitHub" width="40px" src="https://user-images.githubusercontent.com/93207605/235032353-6061a726-e619-4c1c-b311-f71571a059bd.png" />
   </a> &nbsp;&nbsp;
